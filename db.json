@@ -1,14 +1,16 @@
 {
   "users": [
     {
-      "id": "1450",
-      "name": "Woodrow Sauer"
-    },
-    {
-      "id": "901f",
-      "name": "Jake Waelchi IV"
+      "id": "3ce8",
+      "name": "Wm Murray"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "1cac",
+      "userId": "3ce8",
+      "title": "Rustic Wooden Tuna"
+    }
+  ],
   "photos": []
 }
